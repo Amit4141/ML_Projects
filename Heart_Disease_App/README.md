@@ -2,6 +2,8 @@
 
 > A machine learning web application that predicts the risk of heart disease based on patient health parameters — built with **Streamlit** and powered by **Logistic Regression**.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heartdiseaseappp.streamlit.app/)
+
 ![App Screenshot](app_screenshot.png)
 
 ---
@@ -149,6 +151,14 @@ streamlit run app.py
 
 - 🐙 GitHub: [@Amit4141](https://github.com/Amit4141)
 - 📧 Email: [amitofficial4141@gmail.com](mailto:amitofficial4141@gmail.com)
+
+---
+
+---
+
+## 🌐 Live Demo
+
+👉 **[Click here to try the app](https://heartdiseaseappp.streamlit.app/)**
 
 ---
 
