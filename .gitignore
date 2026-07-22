@@ -1,0 +1,11 @@
+﻿ford.csv
+ford_attribute_info.txt
+ford_car_price_prediction.ipynb
+insurance.csv
+insurance.ipynb
+titanic_survival-prediction.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
